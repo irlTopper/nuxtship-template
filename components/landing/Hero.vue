@@ -14,14 +14,13 @@
 
     <div>
       <h1 class="text-5xl lg:text-6xl xl:text-7xl font-bold lg:tracking-tight">
-        Marketing website done with Nuxt
+        You're a bit early...
       </h1>
       <p class="text-lg mt-4 text-slate-600 max-w-xl">
-        Nuxtship is a starter template for startups, marketing websites &
-        landing pages.<wbr /> Built with Nuxt & TailwindCSS. You can quickly
-        create any website with this starter.
+        We are still putting the finishing touches on success.co so please check
+        back in a few weeks.
       </p>
-      <div class="mt-6 flex flex-col sm:flex-row gap-3">
+      <div v-if="0" class="mt-6 flex flex-col sm:flex-row gap-3">
         <LandingLink
           href="https://github.com/Gr33nW33n/nuxtship-template"
           target="_blank"

@@ -40,7 +40,7 @@ const features = [
 </script>
 
 <template>
-  <div class="mt-16 md:mt-0">
+  <div v-if="0" class="mt-16 md:mt-0">
     <h2 class="text-4xl lg:text-5xl font-bold lg:tracking-tight">
       Everything you need to start a website
     </h2>
@@ -50,7 +50,7 @@ const features = [
     </p>
   </div>
 
-  <div class="grid sm:grid-cols-2 md:grid-cols-3 mt-16 gap-16">
+  <div v-if="0" class="grid sm:grid-cols-2 md:grid-cols-3 mt-16 gap-16">
     <div v-for="item of features" class="flex gap-4 items-start">
       <div class="mt-1 bg-black rounded-full p-2 w-8 h-8 shrink-0">
         <Icon class="text-white" :name="item.icon" />

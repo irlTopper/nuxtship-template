@@ -1,4 +1,4 @@
-# Nuxtship - Nuxt SAAS Starter Website Template
+# Success.co
 
 Nuxtship is a free starter nuxt website template for saas, startups, marketing websites & landing pages. Built with Nuxt & TailwindCSS.
 

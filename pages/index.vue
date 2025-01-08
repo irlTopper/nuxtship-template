@@ -1,5 +1,6 @@
 <script setup>
 definePageMeta({
+  title: "Success.co",
   layout: "landing",
 });
 </script>
